@@ -17,4 +17,6 @@ Manual removal of malicious files across hundreds of websites was not scalable a
 
 ---
 
+**> Note:** Code samples available upon request.
+
 ## 📂 Project Structure
